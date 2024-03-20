@@ -1,0 +1,130 @@
+.rectangle1{
+      /* Rectangle 1 */
+
+position: absolute;
+width: 427px;
+height: 623px;
+left: calc(50% - 427px/2 - 0.5px);
+top: 172px;
+
+background: #D9D9D9;
+
+
+}
+h1{
+position: absolute;
+width: 938px;
+height: 62px;
+left: 251px;
+top: 50px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.desktop{
+
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #4CFFF4;
+
+}
+.rectangle2{
+    /* Rectangle 1 */
+
+position: absolute;
+width: 676px;
+height: 518px;
+left: 382px;
+top: 253px;
+
+background: #D9D9D9;
+
+}
+h2{
+    /* Choisissez un thème pour découvrir les mémoires associés : */
+
+position: absolute;
+width: 630px;
+height: 88px;
+left: 405px;
+top: 112px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.section{
+    /* Rectangle 1 */
+   
+   position: absolute;
+   width: 676px;
+   height: 518px;
+   left: 383.5px;
+   top: 171.5px;
+   
+   background: #D9D9D9;
+   
+   
+   /* Vous etes ? */
+   
+   position: absolute;
+   width: 511px;
+   height: 287px;
+   left: 493px;
+   top: 275px;
+   
+   font-family: 'Irish Grover';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 19px;
+   text-align: center;
+   
+   color: #4E0F0F;
+   
+   
+   
+   }
+
+   .rectangle3{
+    /* Rectangle 1 */
+   
+   position: absolute;
+   width: 427px;
+   height: 198px;
+   left: calc(50% - 427px/2 - 0.5px);
+   top: 172px;
+   
+   background: #D9D9D9;
+   
+   }
+
+   .rectangle6{
+    /* Rectangle 1 */
+ 
+ position: absolute;
+ width: 434px;
+ height: 243px;
+ left: calc(50% - 434px/2);
+ top: 172px;
+ 
+ background: #D9D9D9;
+  }
